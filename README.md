@@ -1,6 +1,6 @@
 ## CSI-SCT-SB
 ### CONTACT US ☎️
-- [MAIL]
+- [MAIL](mailto:csi@sctce.ac.in)
 - [INSTAGRAM](https://instagram.com/csisctsb?igshid=YmMyMTA2M2Y=)
 - [FACEBOOK]
 - [YOUTUBE](https://youtube.com/channel/UCiAFo7cXC7KAQ13Lsf8oq6g)
