@@ -13,7 +13,7 @@
 ### CONTACT US ☎️:
 - [MAIL](mailto:csi@sctce.ac.in)
 - [INSTAGRAM](https://instagram.com/csisctsb?igshid=YmMyMTA2M2Y=)
-- [FACEBOOK]
+- [FACEBOOK](https://m.facebook.com/100083111421652/)
 - [YOUTUBE](https://youtube.com/channel/UCiAFo7cXC7KAQ13Lsf8oq6g)
 - [LINKEDIN](https://www.linkedin.com/mwlite/company/csi-sct-sb)
 
