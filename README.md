@@ -1,9 +1,10 @@
-### CSI-SCT-SB
-## CONTACT US ☎️
+## CSI-SCT-SB
+### CONTACT US ☎️
 - [MAIL]
 - [INSTAGRAM](https://instagram.com/csisctsb?igshid=YmMyMTA2M2Y=)
 - [FACEBOOK]
 - [YOUTUBE](https://youtube.com/channel/UCiAFo7cXC7KAQ13Lsf8oq6g)
+- [LINKEDIN](https://www.linkedin.com/mwlite/company/csi-sct-sb)
 <!--
 **CSI-SCT-SB/CSI-SCT-SB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
