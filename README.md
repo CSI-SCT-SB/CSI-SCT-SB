@@ -178,8 +178,8 @@
 </a>
 
 ####  Extra-Mile
-<a href="https://github.com/CSI-SCT-SB/AIL-333-AI-Algorithms-Lab/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/AIL-333-AI-Algorithms-Lab" />
+<a href="https://github.com/CSI-SCT-SB/Extra-Mile/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/CSI-SCT-SB/Extra-Mile" />
     </a>
 <a href="https://github.com/CSI-SCT-SB/Extra-Mile/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/CSI-SCT-SB/Extra-Mile?color=0088fF" />
