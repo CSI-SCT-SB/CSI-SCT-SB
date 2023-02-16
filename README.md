@@ -16,6 +16,10 @@
 <p align="center">Computer Society Of India, SCTCE Student Branch aims to develop the technical skills of students for their professional development by providing numerous webinars and workshops on leading topics and striving to create a great platform to showcase your technical skillsets and knowledge. CSI SCT SB hosts various events including lecture meetings, seminars, conferences, training programs, programming/coding contests, and practical visits to installations. Each and every member of CSI SCT SB are unique in their skills and talents. Teamwork with creativity, hard work, support for each other’s ideas, and most importantly the transparency about the work happening inside the team helps in achieving the end goal effortlessly<br>👇To know more check out our website👇<br><a href="https://csiindia.org"><img src="https://img.shields.io/badge/-Computer%20Society%20Of%20India-blue?style=for-the-badge" height = "27"></a></p>
 <br>
 
+<p align="center">
+	<a href="https://www.csisctsb.org/"><img alt="linkedin" width="10%" style="padding:5px" src="https://github.com/CSI-SCT-SB/CSI-SCT-SB/blob/main/Hand-cursor-icon-with-blue-click-button.png" width="400" height="100"/></a>
+</p>
+
 <h2 align="center"><img src="https://user-images.githubusercontent.com/79012314/207303024-db99c345-852e-4d36-ac3b-64f4b84093a0.png" width="200"> <b/></h2>
 <p align="center">
 	<a href="https://www.linkedin.com/mwlite/company/csi-sct-sb/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
