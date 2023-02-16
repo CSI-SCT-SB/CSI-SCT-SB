@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-	<a href="https://www.csisctsb.org/"><img alt="linkedin" width="10%" style="padding:5px" src="https://github.com/CSI-SCT-SB/CSI-SCT-SB/blob/main/Hand-cursor-icon-with-blue-click-button.png" width="400" height="100"/></a>
+	<a href="https://www.csisctsb.org/"><img alt="linkedin" width="10%" style="padding:5px" src="https://github.com/CSI-SCT-SB/CSI-SCT-SB/blob/main/Hand-cursor-icon-with-blue-click-button.png" width="600" height="100"/></a>
 </p>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/79012314/207303024-db99c345-852e-4d36-ac3b-64f4b84093a0.png" width="200"> <b/></h2>
